@@ -8,5 +8,5 @@ request('http://judgingjs.herokuapp.com/leaderboard.json')
 
     console.log(teams[14])
 
-    // TODO: check to see if we have the highest score
+    // TODO: check to see if we have the highest score #yolo
   })
